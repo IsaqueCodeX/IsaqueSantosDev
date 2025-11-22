@@ -27,7 +27,7 @@ O design foi cuidadosamente pensado para ser moderno, elegante e, acima de tudo,
 
 -   🎨 **Design Moderno e Responsivo:** Interface construída com **Tailwind CSS** e **shadcn/ui**, totalmente adaptável a desktops, tablets e celulares.
 -   🚀 **Animações Fluidas:** Efeitos visuais e transições suaves com **Framer Motion** para uma experiência de usuário mais dinâmica e agradável.
--   🌌 **Fundo Animado Interativo:** Um background com feixes de luz gerados dinamicamente com `HTML Canvas`, criando uma atmosfera única.
+-   🌌 **Hero Banner em Camadas:** Uma experiência visual imersiva com fundo estático e elementos (texto e perfil) animados que deslizam suavemente para a tela, criando profundidade e dinamismo.
 -   📊 **Contadores Dinâmicos:** Sistema de contagem de visitas e "estrelas" (likes) integrado com **Supabase**, demonstrando a capacidade de interação com um back-end real.
 -   🗂️ **Portfólio com Abas:** Seção de projetos organizada em categorias (Front-end e Back-end) para facilitar a navegação.
 -   📱 **Redirecionamento para WhatsApp:** Formulário de orçamento seguro e validado que formata e envia os dados diretamente para o WhatsApp, otimizando o primeiro contato.

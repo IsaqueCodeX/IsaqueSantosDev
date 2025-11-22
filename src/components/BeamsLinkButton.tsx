@@ -1,5 +1,4 @@
 import React from 'react';
-import { BeamsBackground } from '@/components/BeamsBackground';
 import { cn } from '@/lib/utils';
 import { buttonVariants } from '@/components/ui/button';
 
@@ -24,9 +23,6 @@ const BeamsLinkButton = React.forwardRef<HTMLAnchorElement, BeamsLinkButtonProps
         )}
         {...props}
       >
-        <div className="absolute inset-0">
-          <BeamsBackground intensity="subtle" beamColor={[40, 55]} />
-        </div>
         <span className="relative z-10 flex items-center justify-center">
           {children}
         </span>
