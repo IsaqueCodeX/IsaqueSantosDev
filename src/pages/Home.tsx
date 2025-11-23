@@ -130,7 +130,7 @@ const Home = () => {
               <p className="text-sm text-muted-foreground mt-2">Anos em Vendas</p>
             </div>
             <div>
-              <h3 className="text-2xl font-heading text-gradient">15+</h3>
+              <h3 className="text-2xl font-heading text-gradient">25+</h3>
               <p className="text-sm text-muted-foreground mt-2">Projetos Entregues</p>
             </div>
             <div>
@@ -163,7 +163,7 @@ const Home = () => {
               </div>
 
               <div>
-                <h4 className="text-lg font-heading text-gold mb-3">📚 Formação & Cursos</h4>
+                <h4 className="text-lg font-heading text-gold mb-3">Formação & Cursos</h4>
                 <ul className="space-y-2 text-base text-foreground leading-relaxed">
                   <li className="flex items-start gap-2">
                     <span className="w-1.5 h-1.5 rounded-full bg-gold mt-2 flex-shrink-0"></span>
@@ -181,7 +181,7 @@ const Home = () => {
               </div>
 
               <div>
-                <h4 className="text-lg font-heading text-gold mb-4">🎓 Imersões & Certificações</h4>
+                <h4 className="text-lg font-heading text-gold mb-4">Imersões & Certificações</h4>
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-x-6 gap-y-2 text-sm text-foreground">
                   {[
                     'Imersão Cloud DevOps',
@@ -203,7 +203,7 @@ const Home = () => {
               </div>
 
               <p className="text-lg text-gold font-semibold leading-relaxed border-t border-border/30 pt-6 mt-6">
-                💡 Minha missão é unir código limpo, visão estratégica e IA para criar ferramentas que impulsionem a presença digital e os resultados dos meus clientes.
+                Minha missão é unir código limpo, visão estratégica e IA para criar ferramentas que impulsionem a presença digital e os resultados dos meus clientes.
               </p>
             </div>
           </motion.div>
