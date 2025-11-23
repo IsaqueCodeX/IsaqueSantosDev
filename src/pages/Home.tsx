@@ -331,11 +331,11 @@ const Home = () => {
                 <ul className="space-y-2 text-sm text-foreground">
                   <li className="flex items-center gap-2">
                     <span className="w-1.5 h-1.5 rounded-full bg-primary"></span>
-                    Java (aprendendo)
+                    Java
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-1.5 h-1.5 rounded-full bg-primary"></span>
-                    Spring Boot (aprendendo)
+                    Spring Boot
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-1.5 h-1.5 rounded-full bg-primary"></span>
