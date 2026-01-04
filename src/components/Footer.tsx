@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
             <p className="text-sm text-muted-foreground">
-              © 2025 Isaque Santos. Todos os direitos reservados.
+              © 2026 Isaque Santos. Todos os direitos reservados.
             </p>
           </div>
 
